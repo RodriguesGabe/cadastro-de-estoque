@@ -1,0 +1,39 @@
+.alinharRotulos {
+    text-align: right;
+}
+.fundodapagina{
+    background-image: url(imgcadastro.png);
+    height: 160vh;
+    width: 99vw;
+}
+.alinhaBtns {
+    width:30%;
+    background-color: black;
+    color:white;
+    border:0px;
+    padding:5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.carrinho {
+    width:300px; 
+    float:right;
+    color: white;
+}
+.carrinho p {
+    display: inline;
+}
+table {
+    clear:both; 
+    background-color: rgb(170, 11, 104);
+    border-radius: 15px; 
+    color:white;
+    padding:10px;
+    width:400px;
+    margin:auto;
+}
+caption {
+    color:white; 
+    font-weight: bold; 
+    font-size: 25px;
+}
